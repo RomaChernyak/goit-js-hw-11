@@ -91,42 +91,6 @@ body {
     text-align: center;
 }
 
-.load-more {
-    width: auto;
-    height: 50px;
-    color: #fff;
-    background-color: #2196f3;
-
-    border-radius: 4px;
-    padding: 10px 32px;
-    border-style: none;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.88;
-    letter-spacing: 0.06em;
-    text-align: center;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    margin-right: auto;
-    margin-left: auto;
-    box-shadow: 5px 5px 15px 5px darkgrey;
-
-    cursor: pointer;
-
-    transition-duration: 350ms;
-}
-
-.load-more:hover,
-.load-more:focus {
-    transform: scale(1.15);
-    transition-duration: 350ms;
-}
-
-.button-box {
-    display: flex;
-    justify-content: center;
-}
-
 .is-hidden {
     display: none;
 }
